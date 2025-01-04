@@ -2,7 +2,7 @@
 
 **REGISTER NO: 212224040270**
 
-#  EXP NO: 6 SERIAL-IN-SERIAL-OUT-SHIFT REGISTER
+#  EXP NO: 6 IMPLEMENTATION  SERIAL-IN-SERIAL-OUT-SHIFT REGISTER
 
 **AIM:**
 
@@ -52,8 +52,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot (64)](https://github.com/user-attachments/assets/9e982c49-8043-473e-b236-3520607d496c)
-
+![Screenshot (86)](https://github.com/user-attachments/assets/0ede7240-2233-4f5b-bf68-57dd9102ab43)
 
 **RESULTS**
 
